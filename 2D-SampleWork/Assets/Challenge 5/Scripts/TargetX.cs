@@ -30,9 +30,9 @@ public class TargetX : MonoBehaviour
     private void OnMouseDown()
     {
         if (gm.isGameActive)
-        {
-            Destroy(gameObject);
+        {            
             gm.UpdateScore(pointValue);
+            Destroy(gameObject);
             Explode();
         }
         

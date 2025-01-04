@@ -6,6 +6,16 @@ TagManager:
   tags:
   - Destroyer
   - Avoid
+  - Bad
+  - Sensor
+  - JamaMasjid
+  - RedFort
+  - IndiaGate
+  - ChandniChowk
+  - QutubMinar
+  - LotusTemple
+  - HumayunsTomb
+  - Akshardham
   layers:
   - Default
   - TransparentFX
